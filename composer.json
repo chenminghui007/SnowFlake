@@ -1,11 +1,24 @@
 {
     "name": "chenminghui007/snowflake",
-    "description": "cmh",
+    "description": "snowflake",
+    "keywords": [
+        "snowflake"
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "minimum-stability": "dev",
+    "license": "MIT",
     "authors": [
         {
             "name": "cmh",
             "email": "360963804@qq.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "MysqlDict\\": "src/"
+        }
+    }
 }
