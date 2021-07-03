@@ -14,5 +14,10 @@
             "name": "cmh",
             "email": "360963804@qq.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "MysqlDict\\": "src/"
+        }
+    }
 }
