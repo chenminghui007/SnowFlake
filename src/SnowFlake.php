@@ -1,8 +1,7 @@
 <?php
 
 /**
- * 雪花算法类
- * @package app\helpers
+ * 雪花算法
  */
 
 namespace SnowFlake;
