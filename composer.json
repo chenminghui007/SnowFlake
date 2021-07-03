@@ -1,0 +1,11 @@
+{
+    "name": "admin/composer_test",
+    "description": "cmh",
+    "authors": [
+        {
+            "name": "cmh",
+            "email": "360963804@qq.com"
+        }
+    ],
+    "require": {}
+}
